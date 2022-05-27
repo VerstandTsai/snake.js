@@ -1,0 +1,24 @@
+body {
+  background-color: #333333;
+}
+
+#center {
+  width: 40%;
+  margin: 0 auto;
+}
+
+#gameCanvas {
+  border: 5px solid #cccccc;
+}
+
+#scoreBar {
+  text-align: center;
+  font-family: Helvetica, Roboto, "Noto Sans TC", "Microsoft Jhenghei", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: #cccccc;
+}
+
+#score {
+  color: #cc3333;
+}
