@@ -101,5 +101,5 @@ function Game(canvasSize, gridNum) {
   }
 }
 
-var game = new Game(600, 15);
+var game = new Game(450, 15);
 game.init();
